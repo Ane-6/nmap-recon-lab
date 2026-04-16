@@ -53,3 +53,26 @@ Projeto realizado em ambiente autorizado (scanme.nmap.org).
 
 ## 👩‍💻 Autora
 Leidiane Macedo
+## 📸 Evidências
+
+### Host Discovery
+![Host](prints/01-host.png)
+
+### Port Scan
+![Ports](prints/02-ports.png)
+
+### Service Detection
+![Service](prints/03-service.png)
+
+### NSE Scripts
+![NSE](prints/04-nse.png)
+
+### Full Scan
+![Full](prints/05-full.png)
+
+### Execuções adicionais
+![Extra1](prints/06-extra.png)
+![Extra2](prints/07-extra.png)
+![Extra3](prints/08-extra.png)
+![Extra4](prints/09-extra.png)
+![Extra5](prints/10-extra.png)
